@@ -1,6 +1,6 @@
 name             'myface'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Seth Vargo'
+maintainer_email 'sethvargo@opscode.com'
 license          'All rights reserved'
 description      'Installs/Configures myface'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
