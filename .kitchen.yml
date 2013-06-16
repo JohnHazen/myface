@@ -1,6 +1,7 @@
 ---
 driver_plugin: lxc
-use_sudo: true
+driver_config:
+  use_sudo: true
 
 platforms:
   - name: ubuntu-12.04
