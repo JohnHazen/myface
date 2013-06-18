@@ -7,7 +7,7 @@ group :test do
   gem 'kitchen-lxc',      '~> 0.0.1.beta1'
   gem 'knife-spork',      '~> 1.0.17'
   gem 'hipchat',          '~> 0.10.0'
-
+ 
   gem 'guard',            '~> 1.8'
   gem 'guard-foodcritic', '~> 1.0'
   gem 'guard-rspec',      '~> 3.0'
